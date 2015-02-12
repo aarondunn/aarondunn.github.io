@@ -1,8 +1,11 @@
 ---
 layout: default
+custom_js:
+- jquery.mixitup.min
+
 ---
 
-<div id="main" role="main">			
+<div id="main" role="main">
 	<div class="wrap">
 		{% if page.image.feature %}
 		<div class="page-feature">
@@ -17,6 +20,14 @@ layout: default
 			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
 		</div>
 		<div class="archive-wrap">
+			<ul class="tag-filter">
+				<button class="filter btn btn-info" data-filter="all">All</button>
+
+	{% for tag in site.tags %}
+		{% assign t = tag | first %}
+		<button class="filter btn btn-info" data-filter=".{{t}}">{{ t }}</button>
+	{% endfor %}
+	</ul>
 			<div class="page-content">
 				{{ content }}
 			</div><!-- /.page-content -->
