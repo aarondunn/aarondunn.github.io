@@ -1,0 +1,11 @@
+# Authors
+
+test_name:
+  name: FirstName LastName
+  web: http://example.com
+  email: test@test.test
+  bio: "some bio here"
+  avatar: bio-photo.jpg
+  twitter: twitter
+  google:
+    plus: +google
