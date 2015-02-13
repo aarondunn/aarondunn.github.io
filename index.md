@@ -4,7 +4,7 @@ permalink: /
 title: "Latest Posts"
 ---
 
-<div class="tiles">
+<div id="article-list" class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
