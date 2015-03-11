@@ -1,25 +1,6 @@
----
-layout: article
-title: "Corn Chowder"
-date: 2015-02-12T16:19:16-04:00
-author: Aaron
-modified:
-categories: articles
-excerpt: ""
-tags: [Soup]
-ads: false
-toc: false
-comments: false
-share: false
-image:
-  feature: s4t4yd5y.jpg
-  teaser: s4t4yd5y.jpg
-  thumb: s4t4yd5y.jpg
----
+The best aloo gobi
 
-Corn Chowder
-
-![images/s4t4yd5y.jpg](images/s4t4yd5y.jpg)
+![s4t4stst.jpg](s4t4stst.jpg)
 
 Ingredients
 
