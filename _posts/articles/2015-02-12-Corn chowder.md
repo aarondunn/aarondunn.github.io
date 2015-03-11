@@ -19,7 +19,7 @@ image:
 
 Corn Chowder
 
-![images/s4t4yd5y.jpg](images/s4t4yd5y.jpg)
+![../images/s4t4yd5y.jpg](../images/s4t4yd5y.jpg)
 
 Ingredients
 
