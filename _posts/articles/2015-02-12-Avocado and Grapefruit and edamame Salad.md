@@ -20,7 +20,7 @@ image:
 
 Avocado and Grapefruit and edamame Salad
 
-![../images/srgsg4grdgdr.jpg](../images/srgsg4grdgdr.jpg)
+![srgsg4grdgdr.jpg](srgsg4grdgdr.jpg)
 
 For the Salad:
 
