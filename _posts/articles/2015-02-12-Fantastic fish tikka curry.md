@@ -1,3 +1,22 @@
+---
+layout: article
+title: "Fantastic fish tikka curry"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dinner, Fish]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: segt5dy5d.jpg
+  teaser: segt5dy5d.jpg
+  thumb: segt5dy5d.jpg
+---
+
 Fantastic fish tikka curry
 
 ![segt5dy5d.jpg](segt5dy5d.jpg)

@@ -1,3 +1,23 @@
+---
+layout: article
+title: "The best aloo gobi"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dinner]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: s4t4stst.jpg
+  teaser: s4t4stst.jpg
+  thumb: s4t4stst.jpg
+---
+
+
 The best aloo gobi
 
 ![s4t4stst.jpg](s4t4stst.jpg)

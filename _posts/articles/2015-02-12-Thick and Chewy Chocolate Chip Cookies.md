@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Thick and Chewy Chocolate Chip Cookies"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dessert]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: esf4t4sts.jpg
+  teaser: esf4t4sts.jpg
+  thumb: esf4t4sts.jpg
+---
+
+
 Thick and Chewy Chocolate Chip Cookies
 
 ![esf4t4sts.jpg](esf4t4sts.jpg)

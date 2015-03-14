@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Roasted veg vindaloo with golden gnarly chicken skewers"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dinner]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: est4d4yd5.jpg
+  teaser: est4d4yd5.jpg
+  thumb: est4d4yd5.jpg
+---
+
+
 Roasted veg vindaloo with golden gnarly chicken skewers
 
 ![est4d4yd5.jpg](est4d4yd5.jpg)

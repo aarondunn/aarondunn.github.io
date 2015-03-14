@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Chicken noodle soup"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Soups]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: segs4ydgdrg.jpg
+  teaser: segs4ydgdrg.jpg
+  thumb: segs4ydgdrg.jpg
+---
+
+
 Chicken noodle soup
 
 ![segs4ydgdrg.jpg](segs4ydgdrg.jpg)

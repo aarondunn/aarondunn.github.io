@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Spanish Rice"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Sides]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: s4t4st4sts4t.jpg
+  teaser: s4t4st4sts4t.jpg
+  thumb: s4t4st4sts4t.jpg
+---
+
+
 Spanish Rice
 
 ![s4t4st4sts4t.jpg](s4t4st4sts4t.jpg)

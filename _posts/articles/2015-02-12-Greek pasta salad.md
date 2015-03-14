@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Greek pasta salad"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dinner, Salad]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: segsy5dhrgrdrg.jpg
+  teaser: segsy5dhrgrdrg.jpg
+  thumb: segsy5dhrgrdrg.jpg
+---
+
+
 Greek pasta salad
 
 ![segsy5dhrgrdrg.jpg](segsy5dhrgrdrg.jpg)

@@ -1,3 +1,22 @@
+---
+layout: article
+title: "Baked new potatoes with sea salt and rosemary"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Soup]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: s4tsgsrdrgdrgd.jpg
+  teaser: s4tsgsrdrgdrgd.jpg
+  thumb: s4tsgsrdrgdrgd.jpg
+---
+
 Baked new potatoes with sea salt and rosemary
 
 ![s4tsgsrdrgdrgd.jpg](s4tsgsrdrgdrgd.jpg)

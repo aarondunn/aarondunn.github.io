@@ -1,3 +1,22 @@
+---
+layout: article
+title: "Black beans"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Sides]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: sefsefwsgs4g.jpg
+  teaser: sefsefwsgs4g.jpg
+  thumb: sefsefwsgs4g.jpg
+---
+
 Black beans
 
 ![sefsefwsgs4g.jpg](sefsefwsgs4g.jpg)

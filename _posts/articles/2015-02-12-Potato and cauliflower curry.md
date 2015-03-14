@@ -1,3 +1,22 @@
+---
+layout: article
+title: "Potato and cauliflower curry"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Sides]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: srgdh5efef.jpg
+  teaser: srgdh5efef.jpg
+  thumb: srgdh5efef.jpg
+---
+
 Potato and cauliflower curry
 
 ![srgdh5efef.jpg](srgdh5efef.jpg)

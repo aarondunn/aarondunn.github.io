@@ -1,3 +1,22 @@
+---
+layout: article
+title: "Good old chicken tikka masala"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dinner]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: s4t4tdfhtffjfh.jpg
+  teaser: s4t4tdfhtffjfh.jpg
+  thumb: s4t4tdfhtffjfh.jpg
+---
+
 Good old chicken tikka masala
 
 ![s4t4tdfhtffjfh.jpg](s4t4tdfhtffjfh.jpg)

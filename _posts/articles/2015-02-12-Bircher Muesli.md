@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Bircher Muesli"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Breakfast]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: st4gd5rgdr.jpg
+  teaser: st4gd5rgdr.jpg
+  thumb: st4gd5rgdr.jpg
+---
+
+
 Bircher Muesli
 
 ![st4gd5rgdr.jpg](st4gd5rgdr.jpg)

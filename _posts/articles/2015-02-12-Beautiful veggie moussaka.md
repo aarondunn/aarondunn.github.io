@@ -1,3 +1,23 @@
+---
+layout: article
+title: "Beautiful veggie moussaka"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Soup]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: esgrsd5htff.jpg
+  teaser: esgrsd5htff.jpg
+  thumb: esgrsd5htff.jpg
+---
+
+
 Beautiful veggie moussaka
 
 ![esgrsd5htff.jpg](esgrsd5htff.jpg)

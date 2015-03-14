@@ -1,6 +1,26 @@
+---
+layout: article
+title: "Italian Lentils with Eggs and Pesto"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Dinner, Salad]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: s4srsrs4t4g5tg5h.jpg
+  teaser: s4srsrs4t4g5tg5h.jpg
+  thumb: s4srsrs4t4g5tg5h.jpg
+---
+
+
 Italian Lentils with Eggs and Pesto
 
-![http://4.bp.blogspot.com/-FEKwq3FDEsQ/VLmUcJTs9-I/AAAAAAAAGZQ/NHfNCylaXfw/s1600/Lentils2.jpg](http://4.bp.blogspot.com/-FEKwq3FDEsQ/VLmUcJTs9-I/AAAAAAAAGZQ/NHfNCylaXfw/s1600/Lentils2.jpg)
+![s4srsrs4t4g5tg5h.jpg](s4srsrs4t4g5tg5h.jpg)
 
 *Double ingredients
 

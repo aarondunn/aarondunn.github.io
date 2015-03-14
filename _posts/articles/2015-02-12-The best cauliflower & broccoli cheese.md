@@ -1,3 +1,23 @@
+---
+layout: article
+title: "The best cauliflower & broccoli cheese"
+date: 2015-02-12T16:19:16-04:00
+author: Aaron
+modified:
+categories: articles
+excerpt: ""
+tags: [Sides]
+ads: false
+toc: false
+comments: false
+share: false
+image:
+  feature: segs4sfsfse.jpg
+  teaser: segs4sfsfse.jpg
+  thumb: segs4sfsfse.jpg
+---
+
+
 The best cauliflower & broccoli cheese
 
 ![segs4sfsfse.jpg](segs4sfsfse.jpg)
