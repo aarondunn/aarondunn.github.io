@@ -20,8 +20,6 @@ image:
 
 Tortilla soup
 
-![srgrdgd5y5h.jpg](srgrdgd5y5h.jpg)
-
 6 tablespoons cooking oil
 8 6-inch corn tortillas, halved and cut crosswise into 1/4-inch strips
 1 onion, chopped
