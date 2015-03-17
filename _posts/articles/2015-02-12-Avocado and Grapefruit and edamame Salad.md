@@ -17,38 +17,21 @@ image:
   thumb: srgsg4grdgdr.jpg
 ---
 
+**For the Salad**  
+about 2 cups leafy greens  
+1 grapefruit, segmented  
+1 blood orange, segmented  
+1 cup shelled edamame  
+2 celery stalks, sliced  
+1 small (or half of a large) ripe avocado, peeled and sliced  
 
-Avocado and Grapefruit and edamame Salad
-
-![srgsg4grdgdr.jpg](srgsg4grdgdr.jpg)
-
-For the Salad:
-
-about 2 cups leafy greens
-
-1 grapefruit, segmented
-
-1 blood orange, segmented
-
-1 cup shelled edamame
-
-2 celery stalks, sliced
-
-1 small (or half of a large) ripe avocado, peeled and sliced
-
-For the Dressing:
-
-3 tablespoons finely diced shallots
-
-1 tablespoon honey (for vegans substitute a bit of agave)
-
-1 tablespoon dijon or whole grain mustard
-
-2 tablespoons apple cider vinegar
-
-1/4 cup plus 1 tablespoon olive oil
-
-sea salt and fresh cracked black pepper
+**For the Dressing**  
+3 tablespoons finely diced shallots  
+1 tablespoon honey (for vegans substitute a bit of agave)  
+1 tablespoon dijon or whole grain mustard  
+2 tablespoons apple cider vinegar  
+1/4 cup plus 1 tablespoon olive oil  
+sea salt and fresh cracked black pepper  
 
 In a medium bowl, combine all of the salad ingredients:  greens, citrus segments, edamame, celery, and avocado.
 

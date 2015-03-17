@@ -17,36 +17,31 @@ image:
   thumb: sefsefwsgs4g.jpg
 ---
 
-Black beans
 
-![sefsefwsgs4g.jpg](sefsefwsgs4g.jpg)
-
-Refried Black Beans Recipe
-
-Prep time: 1 hour, 10 minutesCook time: 3 hoursYield: Serves 6.
+**Prep time: 1 hour, 10 minutes Cook time: 3 hours Yield: Serves 6.**
 
 This recipe gives instructions for making refried beans from scratch, starting with dry beans which must first be cooked. You can also start with a couple cans of whole black beans, in which case, skip the first two steps, rinse and drain the beans and add to the pan with a little water in step 3.
 
-INGREDIENTS
-Ingredients for cooking the dry beans:
-1 lb dry black beans
-1 Tbsp olive oil
-1/2 teaspoon ground cumin
-1/2 large white onion, chopped (about 1 1/2 cups)
-1 garlic clove, minced
-2 teaspoons salt
-1/2 cup chopped fresh cilantro (leaves and tender stems)
-Additional ingredients for frying the beans after they've been cooked:
-1 teaspoon chipotle chili powder
-1 teaspoon chili powder
-1/2 teaspoon ground cumin
-1/2 large white onion, chopped (about 1 1/2 cups)
-1 garlic clove, minced
-Green onion
-Cilantro
-Crumbled cotija or queso fresco cheese
+**Ingredients**  
+1 lb dry black beans  
+1 Tbsp olive oil  
+1/2 teaspoon ground cumin  
+1/2 large white onion, chopped (about 1 1/2 cups)  
+1 garlic clove, minced  
+2 teaspoons salt  
+1/2 cup chopped fresh cilantro (leaves and tender stems)  
 
-METHOD
+**Additional ingredients for frying the beans after they've been cooked**
+1 teaspoon chipotle chili powder  
+1 teaspoon chili powder  
+1/2 teaspoon ground cumin  
+1/2 large white onion, chopped (about 1 1/2 cups)  
+1 garlic clove, minced  
+Green onion  
+Cilantro  
+Crumbled cotija or queso fresco cheese  
+
+**METHOD**
 1 Place dry beans in a bowl and add enough water to cover the beans by two inches. Let sit overnight. Alternatively, if you don't have time to soak the beans overnight, place the dry beans in a large bowl and pour boiling water over the beans, covering the beans with at least an inch of water, and let sit for one hour. Note, if your dry beans are a little old, or if you have reason to believe that they will be tough to cook (beans stored in hot or humid climates can get tough), you can add some salt to the water (1 1/2 teaspoons of salt 2 quarts of water) which at this stage will help the beans soften when they cook later.
 
 refried-black-beans-2

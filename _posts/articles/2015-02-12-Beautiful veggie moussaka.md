@@ -16,44 +16,31 @@ image:
   teaser: esgrsd5htff.jpg
   thumb: esgrsd5htff.jpg
 ---
-
-
-Beautiful veggie moussaka
-
-![esgrsd5htff.jpg](esgrsd5htff.jpg)
-
-
-15 g dried porcini
-2 medium onions, peeled
-2 cloves of garlic, peeled
-olive oil
-a few sprigs of fresh rosemary and sage, leaves picked
-dried oregano
-250 ml red wine
-2 x 400 g tins of chickpeas
-100 g dried brown lentils
-4 fresh bay leaves
-2 x 400 g tins of plum tomatoes
-sea salt
-freshly ground black pepper
-4 large firm aubergines, trimmed
-800 g potatoes, peeled
-750 ml semi-skimmed milk
-5 black peppercorns
-75 g unsalted butter
-75 g plain flour
-50 g feta cheese
-50 g kefalotyri or pecorino cheese
-2 large free-range egg yolks
-image: http://www.jamieoliver.com/_beta/recipes/images/300x120_jamies_italian.jpg
-Win a dinner for 4 at Jamie's Italian
-image: http://www.jamieoliver.com/_int/rdb2/upload/source/632.jpg
-
-Jamie and Jimmy's Friday Night Feast Recipe
-
-
+**Ingredients**  
+15 g dried porcini  
+2 medium onions, peeled  
+2 cloves of garlic, peeled  
+olive oil  
+a few sprigs of fresh rosemary and sage, leaves picked  
+dried oregano  
+250 ml red wine  
+2 x 400 g tins of chickpeas  
+100 g dried brown lentils  
+4 fresh bay leaves  
+2 x 400 g tins of plum tomatoes  
+sea salt  
+freshly ground black pepper  
+4 large firm aubergines, trimmed  
+800 g potatoes, peeled  
+750 ml semi-skimmed milk  
+5 black peppercorns  
+75 g unsalted butter  
+75 g plain flour  
+50 g feta cheese  
+50 g kefalotyri or pecorino cheese  
+2 large free-range egg yolks  
  
-Method
+**Method**  
 I've taken this classic Greek recipe, usually made with lamb, and transformed it into a veggie delight for the lovely Amanda Holden – this dish is one of her favourite foodie memories from her childhood and it's pretty damn good!
 
 Preheat the oven to 180ºC/350ºF/gas 4. Place the porcini in a small bowl, cover with boiling water, then set aside to soak. Finely slice the onions and garlic, then add to a large pan over a medium heat with a good lug of olive oil, the herbs and 1 teaspoon of oregano. Remove the porcini to a board, reserving the water for later, then roughly chop and add to the pan. Reduce the heat to medium-low and fry for around 10 minutes, or until softened but not coloured.
