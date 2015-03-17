@@ -17,12 +17,7 @@ image:
   thumb: s4t4sg4st4h5.jpg
 ---
 
-Fusilli with Sausage, Artichokes, and Sun-Dried Tomatoes
-
-![s4t4sg4st4h5.jpg](s4t4sg4st4h5.jpg)
-
-Ingredients
-
+Ingredients  
 3/4 cup drained oil-packed sun-dried tomatoes, sliced, reserve oil  
 3/4 pound ground meat (lean turkey) or sausages (hot italian, chicken, merguez lamb, etc.), casings removed - Cajun chicken is delicious!  
 16 oz canned artichoke hearts  

@@ -17,8 +17,6 @@ image:
   thumb: fs44shgdt5hddg.jpg
 ---
 
-Tomato Salad
-
 3-4 tomatoes per person (depending on their sizes) at room temperature*
 2 tbsp extra virgin olive oil
 1 tbsp white balsamic vinegar

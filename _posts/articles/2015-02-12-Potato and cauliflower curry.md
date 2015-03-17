@@ -17,37 +17,28 @@ image:
   thumb: srgdh5efef.jpg
 ---
 
-Potato and cauliflower curry
+3 tbsp vegetable oil  
+2 onions, sliced  
+4 cloves of garlic, chopped  
+6cm piece of ginger, peeled and chipped  
+1 tsp mustard seeds  
+1 tsp cumin seeds  
+3 tomatoes, grated  
+6 curry leaves  
+1 tsp ground coriander  
+1 tsp ground cumin  
+1 tsp ground tumeric  
+1/2 tsp cayenne pepper  
+1 kg maris piper potatoes, or any other floury potatoes thickly diced  
+1-2 green chillies, deseeded and sliced  
+1 large cauliflower, cut into florets just larger than the potato  
+Greek-style yogurt, to serve  
 
-![srgdh5efef.jpg](srgdh5efef.jpg)
-
-3 tbsp vegetable oil
-2 onions, sliced
-4 cloves of garlic, chopped
-6cm piece of ginger, peeled and chipped
-1 tsp mustard seeds
-1 tsp cumin seeds
-3 tomatoes, grated
-6 curry leaves
-1 tsp ground coriander
-1 tsp ground cumin
-1 tsp ground tumeric
-1/2 tsp cayenne pepper
-1 kg maris piper potatoes, or any other floury potatoes thickly diced
-1-2 green chillies, deseeded and sliced
-1 large cauliflower, cut into florets just larger than the potato
-Greek-style yogurt, to serve
-For the Parathas
+For the Parathas  
 300 g chapati flour, plus extra for dusting
-2 tbsp butter, melted
-image: http://www.jamieoliver.com/_beta/recipes/images/300x120_jamies_italian.jpg
-Win a dinner for 4 at Jamie's Italian
-image: http://www.jamieoliver.com/_int/rdb2/upload/source/576.jpg
+2 tbsp butter, melted  
 
-Jamie Magazine Recipe
-Subscribe
 Method
-Recipe by Andy Harris 
 
 1. For the paratha dough, combine the chapati flour in a large bowl with ¾ teaspoon salt and about 200ml cold water, then knead for 10–12 minutes. Shape into a ball, cover with a damp tea towel and leave to rest. 
 

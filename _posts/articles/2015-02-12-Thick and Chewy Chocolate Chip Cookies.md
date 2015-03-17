@@ -17,22 +17,18 @@ image:
   thumb: esf4t4sts.jpg
 ---
 
+yield: About 18 large cookies prep time: 30   minutes cook time: 15 to 18 minutes total time: 45 minutes  
 
-Thick and Chewy Chocolate Chip Cookies
-
-![esf4t4sts.jpg](esf4t4sts.jpg)
-
-yield: About 18 large cookies prep time: 30 minutes cook time: 15 to 18 minutes total time: 45 minutes
-INGREDIENTS:
-2 cups plus 2 tablespoons (10 5/8 ounces) unbleached all-purpose flour
-1/2 teaspoon baking soda
-1/2 teaspoon salt
-12 tablespoons (1 1/2 sticks) unsalted butter, melted and cooled until warm
-1 cup packed (7 ounces) light or dark brown sugar
-1/2 cup (3 1/2 ounces) granulated sugar
-1 large egg plus 1 egg yolk
-2 teaspoons vanilla extract
-1-1 1/2 cups semisweet chocolate chips
+INGREDIENTS:  
+2 cups plus 2 tablespoons (10 5/8 ounces) unbleached all-purpose flour  
+1/2 teaspoon baking soda  
+1/2 teaspoon salt  
+12 tablespoons (1 1/2 sticks) unsalted butter, melted and cooled until warm  
+1 cup packed (7 ounces) light or dark brown sugar  
+1/2 cup (3 1/2 ounces) granulated sugar  
+1 large egg plus 1 egg yolk  
+2 teaspoons vanilla extract  
+1-1 1/2 cups semisweet chocolate chips  
 
 DIRECTIONS:
 1. Adjust the oven racks to the upper- and lower-middle positions and heat the oven to 325 degrees. Line 2 large baking sheets with parchment paper or spray them with nonstick cooking spray.
