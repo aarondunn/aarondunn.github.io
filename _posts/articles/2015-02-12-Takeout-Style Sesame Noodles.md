@@ -12,9 +12,9 @@ toc: false
 comments: false
 share: false
 image:
-  feature: s4g4y5dhd5d.jpg
-  teaser: s4g4y5dhd5d.jpg
-  thumb: s4g4y5dhd5d.jpg
+  feature: ww4gerdsafdg.jpg
+  teaser: ww4gerdsafdg.jpg
+  thumb: ww4gerdsafdg.jpg
 ---
 
 Eddie Schoenfeld, the affable yarn-spinner and restaurateur who opened Red Farm in the West Village and on the Upper West Side of Manhattan, is also one of New York's finest practitioners of Chinese cuisine. In 2007, he helped The Times drill down into the taste history of sesame noodles in America, and specifically to the ones made and sold by Shorty Tang at the restaurant Hwa Yuan on East Broadway. Soft and luxurious, bathed in an emulsified mixture of sesame paste and peanut butter, rendered vivid and fiery by chili oil and sweetened by sugar, then cut by vinegar, this version brings home what used to be classic New York takeout. “The art is in the balance,” Mr. Schoenfeld said at the time, “between the salt and sweet, the sweet and the fire, and the fire and the acidity.”
